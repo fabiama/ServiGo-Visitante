@@ -17,7 +17,7 @@
 
     <link rel="stylesheet" href="<?= $BASE ?>/assets/css/CambiarPass.css">
     <script defer src="<?= $BASE ?>/assets/js/visitante/CambiarPass.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 <body>
 
